@@ -1,0 +1,42 @@
+# File hasil kompilasi Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ekstensi C
+*.so
+
+# Lingkungan Virtual (Virtual Environments)
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# File konfigurasi lingkungan & kunci rahasia
+.env
+.env.local
+*.env
+
+# Editor Teks & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# File Sistem Operasi
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# File Media & Dataset (Bisa disesuaikan jika tidak ingin mengunggah file media besar)
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
